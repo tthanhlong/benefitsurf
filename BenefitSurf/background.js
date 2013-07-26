@@ -3,7 +3,7 @@
   For more information please visit our wiki site:
   http://docs.crossrider.com/#!/guide/scopes_background
 *************************************************************************************/
-
+//extension code here
 appAPI.ready(function($) {
 	
 	appAPI.browserAction.setResourceIcon('new.png');
