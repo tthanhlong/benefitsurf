@@ -1,0 +1,36 @@
+{
+	"status": "OK",
+	"emailAddress": "tthanhlong@tma.com.vn",
+	"advertisers": [
+		{
+			"advertiserId": "adv001",
+			"domainName": "amazon.com",
+			"discount": 0.04
+		},
+		{
+			"advertiserId": "adv002",
+			"domainName": "vnexpress.net",
+			"discount": 0.02
+		},
+		{
+			"advertiserId": "adv003",
+			"domainName": "24h.com.vn",
+			"discount": 0.035
+		},
+		{
+			"advertiserId": "adv004",
+			"domainName": "baomoi.com",
+			"discount": 0.025
+		},
+		{
+			"advertiserId": "adv005",
+			"domainName": "bongdaso.com",
+			"discount": 0.03
+		},
+		{
+			"advertiserId": "adv006",
+			"domainName": "socbay.com",
+			"discount": 0.045
+		}
+	]
+}
